@@ -5,7 +5,7 @@ This analysis takes ride sharing data for many cities across the US, categorized
 ### Results
 In general, fare prices are highest in rural cities, and lowest in urban cities (with suburban fares falling in between). 
 
-*Insert dataframe*
+![Pyber Data DataFrame](https://github.com/caseykotowski/PyBer_Analysis/commit/c1d19349a881f39c049228b44001198c0028fd60)
 
 This DataFrame lays out all the details for ride data by city type. Total rides are inverse to fare costs, with urban cities having the largest total number of rides, and rural cities having the fewest total rides in the timeframe of my data. 
 
@@ -19,7 +19,7 @@ Now the average fare per driver in a city type column is the most interesting to
 
 But is the time of year a factor? To look at this, I sorted the rides by date as well as city type, and regrouped to see the fares collected per week. The below chart shows how fares change over time for the first quarter of 2019. 
 
-[PyBer Fare Summary](https://github.com/caseykotowski/PyBer_Analysis/blob/473e5acc06b328092272e263d52b9ce0b436c1c9/analysis/PyBer_fare_summary.png)
+![PyBer Fare Summary](https://github.com/caseykotowski/PyBer_Analysis/blob/473e5acc06b328092272e263d52b9ce0b436c1c9/analysis/PyBer_fare_summary.png)
 
 The year started off with lower fares for all city types, with fares peaking around the beginning of February. But each city type took its own trajectory with fare prices over the months plotted. The chart does, however, show that Rural fares are consistently the most expensive, and Urban fares are the least expensive. 
 
