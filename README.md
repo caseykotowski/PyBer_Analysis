@@ -5,7 +5,7 @@ This analysis takes ride sharing data for many cities across the US, categorized
 ### Results
 In general, fare prices are highest in rural cities, and lowest in urban cities (with suburban fares falling in between). 
 
-![Pyber Data DataFrame](https://github.com/caseykotowski/PyBer_Analysis/commit/c1d19349a881f39c049228b44001198c0028fd60)
+![Pyber Data DataFrame](https://github.com/caseykotowski/PyBer_Analysis/blob/main/pyber_summary_df.png)
 
 This DataFrame lays out all the details for ride data by city type. Total rides are inverse to fare costs, with urban cities having the largest total number of rides, and rural cities having the fewest total rides in the timeframe of my data. 
 
